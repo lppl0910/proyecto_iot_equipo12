@@ -20,7 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `scanair`
 --
-
+CREATE DATABASE IF NOT EXISTS scanair;
+USE scanair;
 -- --------------------------------------------------------
 
 --
